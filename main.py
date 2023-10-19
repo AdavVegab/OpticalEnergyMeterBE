@@ -8,7 +8,7 @@ broker_address = "test.mosquitto.org"
 broker_port = 1883
 
 # MQTT topic
-mqtt_topic = "test/topic"
+mqtt_topic = "ESP-01_01/Pulses"
 
 # MySQL server address and port number
 mysql_host = "localhost"
