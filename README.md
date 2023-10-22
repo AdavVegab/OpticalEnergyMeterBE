@@ -4,5 +4,6 @@ Python-Skript, dieses ist eine einfache Brücke von MQTT zu einer MySQL-Datenban
 ## inbetriebnahme
 Dependencies Installieren:
 `python -m pip install paho-mqtt`
+`python -m pip install mysql-connector-python`
 App Starten
 `./main.py` 
